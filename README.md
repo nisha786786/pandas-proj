@@ -1,2 +1,2 @@
 # pandas-proj
-get ipl data to filter clean 
+in this project nalysis on ipl matches data
